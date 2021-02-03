@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tts.contact.ContactBookTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-02-03T17:22:20" hostname="SARAH_DESKTOP" time="0.025">
+  <properties/>
+  <testcase name="deleteAddressBook()" classname="com.tts.contact.ContactBookTest" time="0.016"/>
+  <testcase name="addEntry()" classname="com.tts.contact.ContactBookTest" time="0.002"/>
+  <testcase name="removeEntry()" classname="com.tts.contact.ContactBookTest" time="0.002"/>
+  <testcase name="searchEntries()" classname="com.tts.contact.ContactBookTest" time="0.001"/>
+  <testcase name="searchEntriesByType()" classname="com.tts.contact.ContactBookTest" time="0.0"/>
+  <testcase name="createEmptyAddressor()" classname="com.tts.contact.ContactBookTest" time="0.001"/>
+  <testcase name="printAddressBook()" classname="com.tts.contact.ContactBookTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
